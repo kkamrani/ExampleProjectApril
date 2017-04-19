@@ -1,0 +1,47 @@
+H1 {
+  color:white;
+  background-color:Red;
+  font-family: sans-serif;
+
+}
+H2 {
+  color:black;
+  background-color:white;
+  font-family: sans-serif;
+
+}
+H3 {
+  color:Gray;
+  background-color:white;
+  font-family: sans-serif;
+
+}
+img {
+  background: Red
+}
+h6 {
+  color:white;
+  background-color:red;
+  font-family: sans-serif;
+  font-size: 32
+}
+h4 {
+  color:white;
+  background-color:red;
+  font-family: sans-serif;
+  font-size: 32
+
+}
+h5 {
+  color:Blue;
+  background-color:red;
+  font-family: sans-serif;
+  font-size:32
+}
+div {
+  background-color: red
+}
+P {
+  border: solid 3px white;
+
+}
