@@ -1,0 +1,27 @@
+h1 {
+  border: solid 2px blue;
+  width: 200px;
+  height: : 600px;
+
+}
+
+.product-container {
+  border: solid 5px black;
+  background-color: blue;
+
+  margin-top: 10px;
+  margin-bottom: 100px;
+  margin-left: 10px;
+  margin-right: 100px;
+
+  padding: 70px;
+
+  border-radius: 10px;
+  color: white;
+
+  font-family: 'Raleway', sans-serif;
+
+}
+#first-product-container {
+  border: solid 5px red;
+}
